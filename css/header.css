@@ -1,0 +1,22 @@
+#logo
+{
+  color:#fd4a1e;
+  border: 2px solid #fd4a1e;
+  margin-top: 2px;
+  background-color: #ffffff;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  padding: 14px 18px;
+  text-align: center;
+}
+
+h1
+{
+	font: bold 42px Tahoma;
+}
+
+h3
+{
+	font: bold 20px Tahoma;
+	text-decoration: underline;
+}
