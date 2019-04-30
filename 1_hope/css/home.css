@@ -1,0 +1,38 @@
+*{
+	margin: 0px auto;
+	padding: 0px;
+}
+
+nav,section,article,footer
+{
+	display:block;
+}
+
+body{
+	width:80%;
+	max-width:1000px;
+	display:-webkit-box;
+	-webkit-box-pack:center;
+	-webkit-box-orient:vertical;
+	-webkit-box-flex:1;
+	border: 1px solid #b1b1b1;
+	border-collapse:collapse;
+}
+
+article
+{
+	text-align:justify;
+	margin:10px 12px;
+}
+
+#hltblgs
+{
+	margin-top:20px;
+}
+
+#hltblgs .cards
+{
+	font-size:24px;
+	padding:4px 8px;
+	margin:10px 12px;
+}

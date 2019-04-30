@@ -1,0 +1,104 @@
+#reg_form
+{
+	/*border: 2px solid red;*/
+	width: auto;
+	margin: 0px auto;
+	border-collapse: collapse;
+	display:-webkit-box;
+	-webkit-box-pack:center;
+}
+
+#reg_log
+{
+	/*border: 1px solid blue;*/
+	border-collapse: collapse;
+	-webkit-box-orient:vertical;
+	-webkit-box-flex:1;
+}
+
+#reg
+{
+	border: 2px solid purple;
+	padding-bottom: 50px;
+	background-color: #73fa38;
+	border:1px solid #55fa0e;
+	-webkit-box-orient:vertical;
+	-webkit-box-flex:1;
+}
+
+#reg .lable
+{
+	border:1px dashed #660066;
+	width:43%;
+	font-size:30px;
+	text-align:right;
+	color:white;
+}
+
+#reg .seperator
+{
+	border:1px dashed #660066;
+	width:4%;
+	font-size:24px;
+}
+
+#reg .field
+{
+	border:1px dashed #660066;
+	width:53%;
+	padding-left: 8px;
+}
+
+#reg tr{
+	height: 60px;
+}
+
+.fld
+{
+	/*border:1px dashed #99cccc;*/
+	font-size:24px;
+	padding:5px 7px;
+}
+
+#button_box
+{
+	text-align: center;
+	padding:15px;
+}
+
+.reg_btn
+{
+	/*border:1px dashed #660066;*/
+	font-size: 32px;
+	color: #0fb013;
+}
+
+#lgn_frm{
+	vertical-align: top;
+	width: 49.5%;
+	-webkit-box-orient:vertical;
+	-webkit-box-flex:1;
+}
+
+#left_cell{
+	width: 49.5%;
+	-webkit-box-orient:vertical;
+	-webkit-box-flex:0;
+}
+
+#middle_cell{
+	width: 1%;
+}
+
+caption
+{
+	background-color: #f4fff0;
+	border:1px solid #55fa0e;
+	color: #3fc505;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: center;
+	padding: 12px 24px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
